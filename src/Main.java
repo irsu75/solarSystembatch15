@@ -7,6 +7,13 @@ public class Main {
         solar.planets="3";
 
 
+        sun fero=new sun();
+        fero.color="red";
+        fero.temperature="34234";
+        fero.heat="3243243243k";
+
+
+
 
     }
 }
